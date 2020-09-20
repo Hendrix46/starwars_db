@@ -1,0 +1,13 @@
+.error-indicator{
+    color: #ffcc00;
+    text-align: center;
+}
+.error-indicator span{
+    display: block;
+}
+.error-indicator span:first-child{
+    font-size: 36px;
+}
+.error-indicator span:last-child{
+    font-size: 12px;
+}
