@@ -1,3 +1,6 @@
+Star-db is star wars website, where users can get informations about Star wars film's actors, ships and planets.
+Project is integrated with real api.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
